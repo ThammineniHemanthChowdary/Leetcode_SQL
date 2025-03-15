@@ -1,4 +1,5 @@
-# Link to the question: https://leetcode.com/problems/article-views-i/?envType=study-plan-v2&envId=top-sql-50
+-- LeetCode Problem: Article Views 
+-- https://leetcode.com/problems/article-views-i/?envType=study-plan-v2&envId=top-sql-50
 
 # Write your MySQL query statement below
 SELECT DISTINCT author_id AS id 
